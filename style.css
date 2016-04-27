@@ -225,7 +225,7 @@ p {
 }
 #board {
   background: url(images/board.png);
-  transform: translateZ(.5px) scale(.3) translateX(-94%) translateY(200%) rotate(0deg);
+  transform: translateZ(.5px) scale(.3) translateX(-94%) translateY(7000%) rotate(0deg);
   left: 65%;
   background-size: cover;
   /*border-radius: 20px;*/
@@ -268,56 +268,10 @@ p {
 }
 
 
-#books {
-  background-image: url(images/books.jpg);
-  transform: translateZ(-2.5px) scale(2) translateX(-94%) translateY(570%) rotate(0deg);
-  left: 130%;
-}
-#teach {
-  background: url(images/teach.jpg);
-  transform: translateZ(-1.5px) scale(2) translateX(-94%) translateY(600%) rotate(0deg);
-  left: 165%;
-}
-#stranger {
-  background-image: url(images/stranger.jpg);
-  transform: translateZ(-.5px) scale(1) translateX(-94%) translateY(1900%) rotate(0deg);
-  left: 70%;
-}
-#party {
-  background: url(images/party.jpg);
-  transform: translateZ(.5px) scale(.4) translateX(-94%) translateY(4500%) rotate(0deg);
-  left: 65%;
-  background-size: cover;
-  height: 300px;
-}
- #software {
-  background: url(images/software.png);
-  transform: translateZ(.2px) scale(.5) translateX(-94%) translateY(4800%) rotate(0deg);
-  left: 65%;
-}
-#aruba {
-  background-image: url(images/aruba.jpg);
-  transform: translateZ(-1.5px) scale(2) translateX(-94%) translateY(1300%) rotate(0deg);
-  left:180%;
-}
 
 
 
 
-
-
-
-
-
-
-
-
-#propose {
-  background: url(images/propose.jpg);
-  transform: translateZ(-2.5px) scale(3) translateX(-94%) translateY(900%) rotate(0deg);
-  left: -35%;
-  background-size: cover;
-}
 
 
 .parallax {
